@@ -1,0 +1,155 @@
+
+  .top-container{
+  	background color:#EFE3C2;
+    height: 600px;
+    position: relative;
+  
+  }
+  .text{
+  	color: #5D8736;
+
+
+  padding-right: 100px;
+  	font-size: 3.5rem;
+  	font-weight: normal;
+   font-family: ;
+  }
+  .text-container{
+  padding: 200px 200px 100px 350px;
+  }
+
+ .text {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.left-texture{
+  position: absolute;
+  width: 300px;
+  height: 600px;
+
+    }
+ .right-texture{
+   width: 300px;
+  height: 600px;
+  padding-left: 1270px;
+ position: absolute; 
+ bottom: 0px;
+ right: 0px;
+
+ }
+ .profile-png{
+  position: absolute;
+  left: 600px;
+  height: 200px;
+  width: 200px;
+  margin-top: 100px;
+  padding-top: 10px;
+ border-radius:100px ;
+ }
+ .text-intro{
+  position: absolute;
+  left: 600px;
+  top: 950px;
+  color: #5D8736;  
+    font-size: 3rem;
+    font-weight: normal;
+    font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+ }
+ .para-intro{
+   position: absolute;
+  left: 430px;
+  top: 1000px;
+  color: #5D8736;  
+    font-size: 1.5rem;
+    font-weight: normal;
+    font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    padding-top: 50px;
+   
+ }
+.about-me{
+
+  height: 500px;
+  margin-top: 600px;
+}
+.text-about{
+  text-align: center;
+  font-size: 3rem;
+  padding-top: 200px;
+   font-weight: normal;
+    font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+     color: #5D8736;
+}
+.text-abo{
+  text-align: center;
+  font-size: 1.5rem;
+   font-weight: normal;
+    font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+     color: #5D8736;
+}
+.resume{
+    text-align: center;
+  font-size: 2.5rem;
+  color: #5D8736;
+}
+.contact-me{
+  font-size: 3rem;
+  color: #5D8736;
+   text-align: center;
+    font-weight: normal;
+    font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    padding-top: 100px;
+    margin-bottom: 70px;
+}
+.btn{
+  background-color: #5D8736;
+  font-size: 2rem;
+  color: white;
+  border-radius: 8px;
+  padding: 10px 20px 10px 20px;
+  margin: 20px;
+  margin-top: 50px;
+
+}
+.contact{
+  text-align: center;
+}
+.footer{
+  background-color: #5D8736;
+  display: block;
+  height: 300px;
+  text-align: center;
+  margin-top: 100px;
+}
+.footer-text{
+  color: white;
+  padding-top: 100px;
+}
